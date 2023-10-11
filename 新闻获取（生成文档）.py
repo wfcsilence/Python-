@@ -1,3 +1,4 @@
+#由于新闻联播官网网页变化，该爬虫已失效
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
