@@ -1,3 +1,4 @@
+#因为某些我也没细研究的原因，已失效
 import tushare as ts
 import sys
 import time
